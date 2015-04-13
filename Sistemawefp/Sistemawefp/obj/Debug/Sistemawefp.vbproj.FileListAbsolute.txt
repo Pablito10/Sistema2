@@ -1,0 +1,12 @@
+D:\Programacion\Practicaproyecto\Sistemawefp\Sistemawefp\bin\Debug\Sistemawefp.exe.config
+D:\Programacion\Practicaproyecto\Sistemawefp\Sistemawefp\obj\Debug\Sistemawefp.Form1.resources
+D:\Programacion\Practicaproyecto\Sistemawefp\Sistemawefp\obj\Debug\Sistemawefp.Resources.resources
+D:\Programacion\Practicaproyecto\Sistemawefp\Sistemawefp\obj\Debug\Sistemawefp.Formcliente.resources
+D:\Programacion\Practicaproyecto\Sistemawefp\Sistemawefp\obj\Debug\Sistemawefp.vbproj.GenerateResource.Cache
+D:\Programacion\Practicaproyecto\Sistemawefp\Sistemawefp\obj\Debug\Sistemawefp.vbprojResolveAssemblyReference.cache
+D:\Programacion\Practicaproyecto\Sistemawefp\Sistemawefp\bin\Debug\Sistemawefp.exe
+D:\Programacion\Practicaproyecto\Sistemawefp\Sistemawefp\bin\Debug\Sistemawefp.pdb
+D:\Programacion\Practicaproyecto\Sistemawefp\Sistemawefp\bin\Debug\Sistemawefp.xml
+D:\Programacion\Practicaproyecto\Sistemawefp\Sistemawefp\obj\Debug\Sistemawefp.exe
+D:\Programacion\Practicaproyecto\Sistemawefp\Sistemawefp\obj\Debug\Sistemawefp.xml
+D:\Programacion\Practicaproyecto\Sistemawefp\Sistemawefp\obj\Debug\Sistemawefp.pdb
